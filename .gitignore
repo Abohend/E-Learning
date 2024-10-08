@@ -15,6 +15,6 @@
 *.suo
 *.csproj.user
 *.csproj.vspscc
-
+#.
 appsettings.*.json
 appsettings.json
