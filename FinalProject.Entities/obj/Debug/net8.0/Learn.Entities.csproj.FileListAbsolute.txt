@@ -1,0 +1,12 @@
+F:\FinalProjectDEPI\FinalProject.Entities\bin\Debug\net8.0\Learn.Entities.deps.json
+F:\FinalProjectDEPI\FinalProject.Entities\bin\Debug\net8.0\Learn.Entities.dll
+F:\FinalProjectDEPI\FinalProject.Entities\bin\Debug\net8.0\Learn.Entities.pdb
+F:\FinalProjectDEPI\FinalProject.Entities\obj\Debug\net8.0\Learn.Entities.csproj.AssemblyReference.cache
+F:\FinalProjectDEPI\FinalProject.Entities\obj\Debug\net8.0\Learn.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\FinalProjectDEPI\FinalProject.Entities\obj\Debug\net8.0\Learn.Entities.AssemblyInfoInputs.cache
+F:\FinalProjectDEPI\FinalProject.Entities\obj\Debug\net8.0\Learn.Entities.AssemblyInfo.cs
+F:\FinalProjectDEPI\FinalProject.Entities\obj\Debug\net8.0\Learn.Entities.csproj.CoreCompileInputs.cache
+F:\FinalProjectDEPI\FinalProject.Entities\obj\Debug\net8.0\Learn.Entities.dll
+F:\FinalProjectDEPI\FinalProject.Entities\obj\Debug\net8.0\refint\Learn.Entities.dll
+F:\FinalProjectDEPI\FinalProject.Entities\obj\Debug\net8.0\Learn.Entities.pdb
+F:\FinalProjectDEPI\FinalProject.Entities\obj\Debug\net8.0\ref\Learn.Entities.dll

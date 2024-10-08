@@ -1,0 +1,17 @@
+F:\FinalProjectDEPI\FinalProject.DataAccess\bin\Debug\net8.0\Learn.DataAccess.deps.json
+F:\FinalProjectDEPI\FinalProject.DataAccess\bin\Debug\net8.0\Learn.DataAccess.runtimeconfig.json
+F:\FinalProjectDEPI\FinalProject.DataAccess\bin\Debug\net8.0\Learn.DataAccess.dll
+F:\FinalProjectDEPI\FinalProject.DataAccess\bin\Debug\net8.0\Learn.DataAccess.pdb
+F:\FinalProjectDEPI\FinalProject.DataAccess\bin\Debug\net8.0\Learn.Entities.dll
+F:\FinalProjectDEPI\FinalProject.DataAccess\bin\Debug\net8.0\Learn.Entities.pdb
+F:\FinalProjectDEPI\FinalProject.DataAccess\obj\Debug\net8.0\Learn.DataAccess.csproj.AssemblyReference.cache
+F:\FinalProjectDEPI\FinalProject.DataAccess\obj\Debug\net8.0\Learn.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\FinalProjectDEPI\FinalProject.DataAccess\obj\Debug\net8.0\Learn.DataAccess.AssemblyInfoInputs.cache
+F:\FinalProjectDEPI\FinalProject.DataAccess\obj\Debug\net8.0\Learn.DataAccess.AssemblyInfo.cs
+F:\FinalProjectDEPI\FinalProject.DataAccess\obj\Debug\net8.0\Learn.DataAccess.csproj.CoreCompileInputs.cache
+F:\FinalProjectDEPI\FinalProject.DataAccess\obj\Debug\net8.0\Learn.Da.0900DCF9.Up2Date
+F:\FinalProjectDEPI\FinalProject.DataAccess\obj\Debug\net8.0\Learn.DataAccess.dll
+F:\FinalProjectDEPI\FinalProject.DataAccess\obj\Debug\net8.0\refint\Learn.DataAccess.dll
+F:\FinalProjectDEPI\FinalProject.DataAccess\obj\Debug\net8.0\Learn.DataAccess.pdb
+F:\FinalProjectDEPI\FinalProject.DataAccess\obj\Debug\net8.0\Learn.DataAccess.genruntimeconfig.cache
+F:\FinalProjectDEPI\FinalProject.DataAccess\obj\Debug\net8.0\ref\Learn.DataAccess.dll
